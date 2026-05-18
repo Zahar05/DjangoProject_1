@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Удаление изображения</title>
+</head>
+<body>
+    <h1>Удалить изображение</h1>
+
+    <p>Вы уверены, что хотите удалить: <b>{{ image.title }}</b>?</p>
+
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit">Да, удалить</button>
+    </form>
+
+    <a href="{% url 'image_list' %}">Отмена</a>
+</body>
+</html>

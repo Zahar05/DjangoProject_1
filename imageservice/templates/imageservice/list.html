@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Список изображений</title>
+</head>
+<body>
+    <h1>Все изображения</h1>
+
+    <a href="{% url 'home' %}">Главная</a> |
+    <a href="{% url 'upload_image' %}">Загрузить</a>
+
+    <hr>
+
+    {% for image in images %}
+        <div style="margin-bottom: 20px;">
+            <p><b>{{ image.title }}</b></p>
+
+            <a href="{% url 'image_detail' image.id %}">Открыть</a> |
+            <a href="{% url 'delete_image' image.id %}">Удалить</a>
+            <a href="{% url 'download_image' image.id %}">Скачать</a>
+        </div>
+    {% empty %}
+        <p>Изображений нет</p>
+    {% endfor %}
+</body>
+</html>

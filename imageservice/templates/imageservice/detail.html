@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ image.title }}</title>
+</head>
+<body>
+    <h1>{{ image.title }}</h1>
+
+    <a href="{% url 'image_list' %}">← Назад</a>
+    <a href="{% url 'download_image' image.id %}">⬇ Скачать изображение</a>
+
+    <hr>
+
+    <img src="{{ image.image.url }}" style="max-width: 600px;">
+
+    <p>Загружено: {{ image.uploaded_at }}</p>
+</body>
+</html>
