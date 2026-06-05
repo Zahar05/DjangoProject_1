@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Галерея</title>
+</head>
+<body>
+
+<h1>Все изображения</h1>
+
+{% for image in images %}
+<div
+    style="
+        display:flex;
+        align-items:center;
+        gap:20px;
+        margin-bottom:20px;
+        padding:15px;
+        border:1px solid #ccc;
+        border-radius:10px;
+        background:white;
+    "
+>
+    <img
+        src="{{ image.image.url }}"
+        alt="{{ image.title }}"
+        width="250"
+        style="border-radius:8px;"
+    >
+
+    <h3>{{ image.title }}</h3>
+</div>
+{% endfor %}
+
+</body>
+</html>

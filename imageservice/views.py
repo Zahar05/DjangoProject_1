@@ -6,6 +6,12 @@ from django.shortcuts import render, redirect, get_object_or_404
 from .forms import ImageForm
 from .models import Image
 
+from rest_framework.viewsets import ModelViewSet
+from .serializers import ImageSerializer
+
+from rest_framework.permissions import IsAuthenticatedOrReadOnly
+
+
 logger = logging.getLogger(__name__)
 
 
@@ -97,4 +103,19 @@ def delete_image(request, image_id):
 
     return render(request, "imageservice/delete.html", {"image": image})
 
+
+class ImageViewSet(ModelViewSet):
+    queryset = Image.objects.all().order_by("-uploaded_at")
+    serializer_class = ImageSerializer
+    permission_classes = [IsAuthenticatedOrReadOnly]
+
+
+def gallery(request):
+    images = Image.objects.all().order_by("-uploaded_at")
+
+    return render(
+        request,
+        "imageservice/gallery.html",
+        {"images": images}
+    )
 # Create your views here.
