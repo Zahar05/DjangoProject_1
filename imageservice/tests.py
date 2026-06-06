@@ -1,17 +1,17 @@
-from django.test import TestCase
-
-# Create your tests here.
 import shutil
 import tempfile
 from io import BytesIO
 
 from PIL import Image as PILImage
 from django.core.files.uploadedfile import SimpleUploadedFile
-from django.test import TestCase, override_settings
+from django.http import HttpResponse
+from django.test import TestCase, override_settings, RequestFactory
 from django.urls import reverse
 
 from .models import Image
+from .middleware import RequestLoggingMiddleware
 
+from django.contrib.auth.models import AnonymousUser
 
 TEST_MEDIA_ROOT = tempfile.mkdtemp()
 
@@ -42,7 +42,7 @@ class ImageViewsTests(TestCase):
 
     def create_image_object(self):
         """
-        Создает объект Image в тестовой базе данных.
+        Создает объект Image с валидным файлом изображения.
         """
         return Image.objects.create(
             title="Test image",
@@ -115,3 +115,48 @@ class ImageViewsTests(TestCase):
 
         self.assertEqual(response.status_code, 302)
         self.assertEqual(Image.objects.count(), 0)
+
+
+class RequestLoggingMiddlewareTests(TestCase):
+
+    def setUp(self):
+        self.factory = RequestFactory()
+
+    def test_get_client_ip_remote_addr(self):
+        request = self.factory.get("/")
+        request.META["REMOTE_ADDR"] = "127.0.0.1"
+
+        middleware = RequestLoggingMiddleware(
+            lambda request: HttpResponse()
+        )
+
+        ip = middleware.get_client_ip(request)
+
+        self.assertEqual(ip, "127.0.0.1")
+
+    def test_get_client_ip_forwarded_for(self):
+        request = self.factory.get("/")
+
+        request.META["HTTP_X_FORWARDED_FOR"] = (
+            "10.0.0.1, 172.16.0.1"
+        )
+
+        middleware = RequestLoggingMiddleware(
+            lambda request: HttpResponse()
+        )
+
+        ip = middleware.get_client_ip(request)
+
+        self.assertEqual(ip, "10.0.0.1")
+
+    def test_middleware_returns_response(self):
+        request = self.factory.get("/test/")
+        request.user = AnonymousUser()
+
+        middleware = RequestLoggingMiddleware(
+            lambda request: HttpResponse("OK")
+        )
+
+        response = middleware(request)
+
+        self.assertEqual(response.status_code, 200)

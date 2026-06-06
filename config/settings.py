@@ -11,9 +11,12 @@ https://docs.djangoproject.com/en/6.0/ref/settings/
 """
 
 from pathlib import Path
-
 import os
 from dotenv import load_dotenv
+import sys
+
+
+
 
 load_dotenv()
 
@@ -32,6 +35,8 @@ DATABASES = {
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+TESTING = "test" in sys.argv
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
@@ -162,6 +167,15 @@ LOGGING = {
             "class": "logging.StreamHandler",
             "formatter": "verbose",
         },
+
+        "file": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "filename": BASE_DIR / "logs" / "requests.log",
+            "maxBytes": 1024 * 1024,  # 1 МБ
+            "backupCount": 3,
+            "formatter": "verbose",
+            "encoding": "utf-8"
+        },
     },
 
     # ⭐ ВОТ ЭТО ГЛАВНОЕ
@@ -171,10 +185,17 @@ LOGGING = {
     },
 
     "loggers": {
-        "middleware": {
-            "handlers": ["console"],
+        "imageservice": {
+            "handlers": ["console", "file"],
             "level": "INFO",
             "propagate": True,
         },
     },
 }
+
+if TESTING:
+    LOGGING["handlers"].pop("file", None)
+
+    LOGGING["loggers"]["imageservice"]["handlers"] = [
+        "console"
+    ]
