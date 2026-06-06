@@ -6,3 +6,4 @@ python-dotenv
 djangorestframework
 djangorestframework-simplejwt
 coverage
+django-prometheus

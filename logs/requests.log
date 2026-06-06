@@ -1,0 +1,1614 @@
+INFO 2026-06-06 11:42:20,859 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,860 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,861 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,862 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,865 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,864 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,863 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,867 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,866 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,870 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,868 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,869 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,867 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,871 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,872 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,872 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,873 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,874 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,875 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,876 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,876 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,877 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,878 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,879 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,880 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,881 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,882 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.012s | status=200
+INFO 2026-06-06 11:42:20,884 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,885 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,884 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,886 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,887 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,888 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,890 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,890 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,891 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,892 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,894 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,893 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,895 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,896 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,896 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,897 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,898 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,899 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,901 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,901 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,902 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,903 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,904 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,905 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,906 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,907 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,908 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,909 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,909 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,910 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,911 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,911 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,912 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,912 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,913 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,914 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,915 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,916 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,917 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,918 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,919 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,920 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,921 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.013s | status=200
+INFO 2026-06-06 11:42:20,922 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,923 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:20,923 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,925 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,925 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,926 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,927 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,928 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,929 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,931 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,932 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,932 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,933 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,935 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,935 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,936 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,937 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,939 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,939 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,940 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,941 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,942 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,943 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,944 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,944 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,945 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,946 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,947 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,948 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,948 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,949 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,950 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,951 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,952 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,953 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,954 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,956 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,956 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,957 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,958 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,959 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,960 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,960 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,962 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,963 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,964 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,965 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,966 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,966 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,967 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,968 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:20,968 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,969 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,970 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,971 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,972 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,974 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,975 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,976 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,976 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,977 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,978 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,979 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,980 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,981 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,981 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,982 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,982 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:20,984 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,985 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,985 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,987 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,988 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,989 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,990 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,991 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:20,992 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,993 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,994 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,995 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,995 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,996 imageservice.views Home page opened
+INFO 2026-06-06 11:42:20,997 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,998 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:20,999 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,000 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,001 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,002 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,003 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,003 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,004 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,006 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,005 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,006 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,007 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,009 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,010 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,011 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,012 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,013 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,014 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,020 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,022 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,026 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,024 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,028 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.026s | status=200
+INFO 2026-06-06 11:42:21,029 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.026s | status=200
+INFO 2026-06-06 11:42:21,030 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,032 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.027s | status=200
+INFO 2026-06-06 11:42:21,034 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,037 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.030s | status=200
+INFO 2026-06-06 11:42:21,039 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,041 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,042 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,044 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.032s | status=200
+INFO 2026-06-06 11:42:21,045 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,047 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.035s | status=200
+INFO 2026-06-06 11:42:21,048 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,049 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.035s | status=200
+INFO 2026-06-06 11:42:21,050 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,052 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.030s | status=200
+INFO 2026-06-06 11:42:21,053 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,055 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.029s | status=200
+INFO 2026-06-06 11:42:21,056 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,058 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,059 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,059 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.029s | status=200
+INFO 2026-06-06 11:42:21,060 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,062 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,061 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.027s | status=200
+INFO 2026-06-06 11:42:21,063 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,065 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,066 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.025s | status=200
+INFO 2026-06-06 11:42:21,066 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.024s | status=200
+INFO 2026-06-06 11:42:21,067 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,068 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,070 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,070 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,071 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,072 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,073 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,075 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,075 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,075 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,076 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,079 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,077 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,080 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,081 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,082 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,083 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,083 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,086 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,087 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,088 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,089 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,090 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,091 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,092 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,092 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,093 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,094 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,097 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,097 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,099 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,099 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,100 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,100 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,101 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,101 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,102 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,103 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,104 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,104 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,105 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,106 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,107 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,107 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,108 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,109 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.013s | status=200
+INFO 2026-06-06 11:42:21,111 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,112 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,112 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,113 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,114 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,115 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,116 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,116 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,117 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,119 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,119 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,121 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,122 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,123 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,124 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,125 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,126 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,128 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,128 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,129 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,130 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,131 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,131 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,133 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,133 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,134 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,135 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,137 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,136 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,138 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,138 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,139 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,140 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,140 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,141 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,142 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,143 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,144 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,144 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,145 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,146 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,147 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,148 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,149 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,149 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,150 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,151 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,151 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,153 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,154 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,155 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,156 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,158 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,159 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,160 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,160 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,161 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,163 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,164 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,165 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,165 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,166 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,166 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,168 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,169 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,170 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,171 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,172 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,173 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,174 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,175 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,176 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,177 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,177 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,177 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,178 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,179 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,180 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,181 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,182 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,183 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,183 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,185 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,186 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,187 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,188 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,189 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,190 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,191 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,192 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,192 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,194 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,196 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,195 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,198 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,198 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,199 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,206 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.024s | status=200
+INFO 2026-06-06 11:42:21,206 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,207 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.012s | status=200
+INFO 2026-06-06 11:42:21,209 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.025s | status=200
+INFO 2026-06-06 11:42:21,210 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,211 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.026s | status=200
+INFO 2026-06-06 11:42:21,212 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,213 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.025s | status=200
+INFO 2026-06-06 11:42:21,214 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,214 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.025s | status=200
+INFO 2026-06-06 11:42:21,215 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.024s | status=200
+INFO 2026-06-06 11:42:21,215 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,216 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.025s | status=200
+INFO 2026-06-06 11:42:21,218 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,218 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.025s | status=200
+INFO 2026-06-06 11:42:21,219 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,220 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,221 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,222 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,223 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,224 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,224 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,226 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,227 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,228 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,229 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,230 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,231 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,232 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,234 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,234 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,235 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,236 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,237 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,237 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,239 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,239 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,241 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,241 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,242 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,244 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,245 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,246 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,247 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,247 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,248 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,248 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,250 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,251 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,251 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,252 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,253 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,254 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,254 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,255 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,256 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,258 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,258 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,261 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,265 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,267 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,268 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,270 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,271 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,273 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,274 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,276 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,279 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.028s | status=200
+INFO 2026-06-06 11:42:21,280 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,283 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.031s | status=200
+INFO 2026-06-06 11:42:21,284 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.031s | status=200
+INFO 2026-06-06 11:42:21,287 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,287 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.030s | status=200
+INFO 2026-06-06 11:42:21,288 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,289 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,291 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,292 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,294 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.033s | status=200
+INFO 2026-06-06 11:42:21,296 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.029s | status=200
+INFO 2026-06-06 11:42:21,296 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,298 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.026s | status=200
+INFO 2026-06-06 11:42:21,299 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,300 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,301 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.027s | status=200
+INFO 2026-06-06 11:42:21,302 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,302 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.026s | status=200
+INFO 2026-06-06 11:42:21,303 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,304 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.024s | status=200
+INFO 2026-06-06 11:42:21,306 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,307 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,310 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,311 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.022s | status=200
+INFO 2026-06-06 11:42:21,312 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.022s | status=200
+INFO 2026-06-06 11:42:21,312 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,313 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,313 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.022s | status=200
+INFO 2026-06-06 11:42:21,314 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.022s | status=200
+INFO 2026-06-06 11:42:21,316 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,318 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,317 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,320 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,319 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,321 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,322 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,324 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,324 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,325 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,326 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,327 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,328 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,329 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,330 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,331 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,332 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,333 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,334 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,336 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,337 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,340 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,338 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,340 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,341 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,341 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,342 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,343 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,344 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,344 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,345 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,346 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,347 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,349 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,350 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,350 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,351 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,351 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,352 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,353 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,355 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,355 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,356 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,357 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,358 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,359 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,360 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,361 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,362 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,363 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,364 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,367 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,367 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,368 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,369 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,370 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,371 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,372 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,373 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,374 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,375 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,376 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,377 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,377 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,379 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,380 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,382 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,383 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,384 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,384 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,386 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,387 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,388 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,388 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,389 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,389 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,390 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,390 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,391 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,393 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,393 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,394 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,395 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,396 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,397 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,398 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,399 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,400 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,401 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:21,403 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,403 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,404 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,406 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,407 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,408 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,409 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,410 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,410 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,412 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,412 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,413 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,415 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,415 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,416 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,417 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,418 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,419 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,420 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,421 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,423 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,423 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,424 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,426 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,425 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,428 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,428 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,427 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,429 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,430 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,430 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,431 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,432 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,433 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,434 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,435 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,436 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,437 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,438 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,439 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,443 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,446 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,449 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,450 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.023s | status=200
+INFO 2026-06-06 11:42:21,451 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.022s | status=200
+INFO 2026-06-06 11:42:21,454 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,455 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.024s | status=200
+INFO 2026-06-06 11:42:21,458 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,459 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,460 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.026s | status=200
+INFO 2026-06-06 11:42:21,461 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,464 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,464 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,465 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.030s | status=200
+INFO 2026-06-06 11:42:21,466 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,467 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,466 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.029s | status=200
+INFO 2026-06-06 11:42:21,468 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,468 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.029s | status=200
+INFO 2026-06-06 11:42:21,470 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.027s | status=200
+INFO 2026-06-06 11:42:21,470 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,473 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.024s | status=200
+INFO 2026-06-06 11:42:21,475 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,475 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,477 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,477 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,478 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,479 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,480 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,481 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,481 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,482 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,483 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,484 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,484 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,485 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,486 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,488 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,489 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,490 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,491 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,492 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,493 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,494 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,495 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,496 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,497 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,498 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,501 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,499 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,498 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,502 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,504 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,505 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,505 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,506 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,507 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,508 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,509 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,510 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,511 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,511 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,513 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,515 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,515 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,516 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,517 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,518 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,519 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,519 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,520 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,521 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,521 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,522 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,522 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,524 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,525 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,526 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,528 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,529 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,530 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,531 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,532 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,533 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,533 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,535 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,535 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,537 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,538 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,537 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,539 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,540 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,542 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,543 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,544 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,544 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,546 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,546 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,547 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,548 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,549 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,550 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,552 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,552 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,553 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,554 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,555 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,556 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,557 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,558 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,559 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,561 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,560 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,560 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,562 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,563 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,564 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,565 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,565 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,566 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,567 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,569 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,570 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,571 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,571 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,572 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,574 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,575 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,576 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,577 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,578 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,579 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,580 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,581 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,582 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,584 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,585 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,585 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,587 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,588 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,589 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,590 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,591 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,592 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,593 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,594 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,595 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,596 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,597 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,598 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,598 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,599 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,600 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,602 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,601 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,603 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,604 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,604 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,605 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,606 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,608 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,607 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,610 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,610 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,612 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,613 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,614 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,614 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,616 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,617 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,618 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,619 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,620 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,621 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,623 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,624 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,624 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,626 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,626 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,627 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,629 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,630 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,627 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,631 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,632 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,632 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,635 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,636 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,636 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,638 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,639 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,637 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,639 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,640 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,640 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,641 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,642 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,642 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,645 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,646 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,646 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,647 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,648 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,649 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,650 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,650 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,652 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,653 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,655 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,656 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,657 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,658 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,659 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,659 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,660 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,661 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,662 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,662 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,664 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,665 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,663 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,666 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,667 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,668 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,669 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,670 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,671 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,672 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,673 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,674 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,675 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,676 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,677 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,678 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,678 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,679 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,680 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,681 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,682 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,683 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,684 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,685 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,685 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,687 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,689 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,690 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,691 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,692 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,693 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,694 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,695 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,695 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,696 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,699 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,700 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,702 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,701 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,701 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,703 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,704 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,705 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,706 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,706 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,707 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,708 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,709 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,709 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,710 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,712 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,714 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,715 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,715 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,717 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,717 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,719 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,720 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,720 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,721 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,721 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,722 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,724 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,724 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,726 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,798 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,799 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.090s | status=200
+INFO 2026-06-06 11:42:21,800 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,803 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,803 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.091s | status=200
+INFO 2026-06-06 11:42:21,804 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,805 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.090s | status=200
+INFO 2026-06-06 11:42:21,806 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.091s | status=200
+INFO 2026-06-06 11:42:21,807 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,808 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.091s | status=200
+INFO 2026-06-06 11:42:21,809 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.090s | status=200
+INFO 2026-06-06 11:42:21,810 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.089s | status=200
+INFO 2026-06-06 11:42:21,811 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,813 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,814 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.090s | status=200
+INFO 2026-06-06 11:42:21,815 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.089s | status=200
+INFO 2026-06-06 11:42:21,815 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,816 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.090s | status=200
+INFO 2026-06-06 11:42:21,817 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,818 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,820 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,819 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,821 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,822 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,822 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,824 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,825 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,826 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,828 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,830 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,831 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,832 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,832 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,834 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,834 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,836 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,838 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,837 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,839 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,840 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,841 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,842 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,843 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,843 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,844 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,845 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,846 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,847 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,848 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,850 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,850 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,851 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,853 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,854 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,854 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,856 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,857 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,858 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,859 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,865 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,868 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,869 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.027s | status=200
+INFO 2026-06-06 11:42:21,870 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.027s | status=200
+INFO 2026-06-06 11:42:21,871 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.025s | status=200
+INFO 2026-06-06 11:42:21,873 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,875 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,878 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.027s | status=200
+INFO 2026-06-06 11:42:21,876 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,878 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,879 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,880 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.028s | status=200
+INFO 2026-06-06 11:42:21,881 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,882 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.028s | status=200
+INFO 2026-06-06 11:42:21,883 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,884 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.026s | status=200
+INFO 2026-06-06 11:42:21,886 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,886 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,887 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.028s | status=200
+INFO 2026-06-06 11:42:21,888 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,888 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.024s | status=200
+INFO 2026-06-06 11:42:21,889 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.021s | status=200
+INFO 2026-06-06 11:42:21,891 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,892 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,893 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,893 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,895 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,896 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,895 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,897 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,898 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,899 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,900 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,901 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,902 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,902 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,903 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,904 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,905 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,906 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,908 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,909 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,911 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,912 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,913 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,914 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,914 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,916 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,916 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,917 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,919 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,918 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,920 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,920 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,922 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,923 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,924 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,924 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,925 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,926 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,927 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,928 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,928 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,929 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,930 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,931 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,932 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,933 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,934 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,934 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,935 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,937 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:21,938 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,939 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,941 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,940 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,942 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,943 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,944 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,946 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,948 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,949 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,945 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,950 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,951 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,952 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,953 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,954 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,956 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,954 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,957 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,959 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,960 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,961 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,961 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,962 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,963 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,964 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,965 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,965 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,966 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.022s | status=200
+INFO 2026-06-06 11:42:21,967 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,968 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,968 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,969 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,970 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,971 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,972 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,973 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,973 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,975 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,976 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,977 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:21,978 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,979 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,980 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,983 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,984 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,985 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.017s | status=200
+INFO 2026-06-06 11:42:21,987 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,988 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,987 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,988 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,990 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,990 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.020s | status=200
+INFO 2026-06-06 11:42:21,991 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,992 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.019s | status=200
+INFO 2026-06-06 11:42:21,992 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,994 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,995 imageservice.views Home page opened
+INFO 2026-06-06 11:42:21,997 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.018s | status=200
+INFO 2026-06-06 11:42:21,999 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.016s | status=200
+INFO 2026-06-06 11:42:22,000 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.015s | status=200
+INFO 2026-06-06 11:42:22,000 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:22,001 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.013s | status=200
+INFO 2026-06-06 11:42:22,002 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.014s | status=200
+INFO 2026-06-06 11:42:22,003 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.013s | status=200
+INFO 2026-06-06 11:42:22,003 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.012s | status=200
+INFO 2026-06-06 11:42:22,004 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.012s | status=200
+INFO 2026-06-06 11:42:22,006 imageservice GET / | user=Anonymous | ip=172.18.0.1 | time=0.011s | status=200
+INFO 2026-06-06 11:42:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:42:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:43:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:43:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:43:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:43:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:44:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:44:21,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:44:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:44:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:45:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:45:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:45:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:45:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:46:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:46:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:46:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:46:51,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 11:47:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 11:47:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:47:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:47:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:48:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:48:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:48:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:48:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:49:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:49:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:49:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:49:51,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 11:50:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:50:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:50:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:50:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:51:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:51:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:51:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:51:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:52:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:52:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:52:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:52:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:53:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:53:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:53:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:53:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:54:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:54:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:54:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:54:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:55:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 11:55:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:55:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:55:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:56:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:56:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 11:56:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:56:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:57:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:57:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:57:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:57:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:58:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:58:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:58:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:58:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 11:59:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:59:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:59:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 11:59:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:00:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:00:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:00:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:00:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:01:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:01:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:01:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:01:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:02:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:02:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:02:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:02:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:03:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:03:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:03:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:03:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:04:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:04:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:04:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:04:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:05:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:05:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:05:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:05:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:06:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:06:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:06:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:06:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:07:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:07:21,197 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 12:07:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:07:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:08:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:08:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:08:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:08:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:09:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:09:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:09:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:09:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:10:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:10:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:10:36,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 12:10:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:11:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:11:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:11:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:11:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:12:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:12:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:12:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:12:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:13:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:13:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:13:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:13:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:14:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:14:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:14:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:14:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:15:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:15:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:15:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:15:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:16:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:16:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:16:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:16:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:17:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:17:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:17:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:17:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:18:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:18:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:18:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:18:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:19:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:19:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:19:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:19:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:20:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:20:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:20:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:20:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:21:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:21:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:21:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:21:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:22:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:22:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:22:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:22:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:23:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:23:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:23:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:23:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:24:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:24:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:24:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:24:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:25:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:25:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:25:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:25:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:26:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:26:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:26:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:26:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:27:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:27:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:27:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:27:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:28:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:28:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:28:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:28:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:29:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:29:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:29:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:29:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:30:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 12:30:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:30:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:30:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:31:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:31:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:31:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:31:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:32:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:32:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:32:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:32:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:33:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:33:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:33:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:33:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:34:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:34:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:34:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:34:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:35:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:35:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:35:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:35:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:36:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:36:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:36:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:36:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:37:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:37:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:37:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:37:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:38:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:38:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:38:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:38:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:39:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:39:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:39:36,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 12:39:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:40:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:40:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:40:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:40:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:41:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:41:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:41:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:41:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:42:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:42:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:42:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:42:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:43:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:43:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:43:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:43:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:44:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:44:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:44:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:44:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:45:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:45:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:45:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:45:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:46:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:46:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:46:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:46:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:47:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:47:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:47:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:47:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:48:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:48:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:48:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:48:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:49:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:49:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:49:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:49:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:50:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:50:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:50:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:50:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 12:51:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:51:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:51:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:51:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:52:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 12:52:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:52:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:52:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:53:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:53:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:53:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:53:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:54:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:54:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:54:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:54:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:55:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:55:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:55:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:55:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:56:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:56:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:56:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 12:56:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:57:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:57:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:57:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:57:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:58:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:58:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:58:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:58:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 12:59:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:59:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:59:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 12:59:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:00:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:00:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:00:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:00:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:01:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:01:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:01:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:01:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:02:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:02:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:02:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:02:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:03:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:03:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:03:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:03:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:04:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:04:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:04:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:04:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:05:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:05:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:05:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:05:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:06:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:06:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:06:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:06:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:07:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:07:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:07:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:07:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:08:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:08:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:08:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:08:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:09:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:09:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:09:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:09:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:10:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:10:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:10:36,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:10:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:11:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:11:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:11:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:11:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:12:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:12:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:12:36,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:12:51,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:13:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:13:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:13:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:13:51,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:14:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:14:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:14:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:14:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:15:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:15:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:15:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:15:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:16:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:16:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:16:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:16:51,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:17:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:17:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:17:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:17:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:18:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:18:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:18:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:18:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:19:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:19:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:19:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:19:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:20:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:20:21,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:20:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:20:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:21:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:21:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:21:36,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:21:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:22:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:22:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:22:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:22:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:23:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:23:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:23:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:23:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:24:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:24:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:24:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:24:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:25:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:25:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:25:36,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:25:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:26:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:26:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:26:36,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:26:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:27:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:27:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:27:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:27:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:28:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:28:21,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:28:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:28:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:29:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:29:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:29:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:29:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:30:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:30:21,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:30:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:30:51,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:31:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:31:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:31:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:31:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:32:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:32:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:32:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:32:51,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:33:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:33:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:33:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:33:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:34:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:34:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:34:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:34:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:35:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:35:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:35:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:35:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:36:06,198 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:36:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:36:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:36:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:37:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:37:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:37:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:37:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:38:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-06 13:38:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:38:36,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:38:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:39:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:39:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:39:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:39:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:40:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:40:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:40:36,197 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.003s | status=200
+INFO 2026-06-06 13:40:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:41:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:41:21,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:41:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:41:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:42:06,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.006s | status=200
+INFO 2026-06-06 13:42:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:42:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:42:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:43:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:43:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:43:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:43:51,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:44:06,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:44:21,199 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:44:36,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:44:51,201 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:45:06,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:45:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:45:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:45:51,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:46:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:46:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:46:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:46:51,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:47:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:47:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:47:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:47:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:48:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:48:21,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:48:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:48:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:49:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:49:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:49:36,204 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:49:51,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:50:06,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:50:21,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:50:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:50:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:51:06,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:51:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:51:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:51:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:52:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:52:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:52:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:52:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:53:06,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:53:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:53:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:53:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:54:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:54:21,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:54:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:54:51,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:55:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:55:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:55:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:55:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:56:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:56:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:56:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:56:51,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:57:06,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:57:21,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:57:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:57:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:58:06,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:58:21,200 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-06 13:58:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:58:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:59:06,204 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 13:59:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:59:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 13:59:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:00:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:00:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:00:36,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:00:51,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:01:06,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:01:21,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:01:36,203 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.008s | status=200
+INFO 2026-06-06 14:01:51,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
+INFO 2026-06-06 14:02:06,202 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.007s | status=200
