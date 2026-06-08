@@ -10,13 +10,28 @@ from imageservice.views import (
     delete_image,
     ImageViewSet,
     gallery,
+    RegisterView,
+    login_view,
+    logout_view,
 )
+
+from rest_framework_simplejwt.views import (
+    TokenObtainPairView,
+    TokenRefreshView,
+)
+
 
 router = DefaultRouter()
 router.register("api/images", ImageViewSet)
 
 urlpatterns = [
     path('', home, name='home'),
+     path(
+         "api/register/", RegisterView.as_view(),
+         name="register",
+    ),
+    path("login/", login_view, name="login"),
+    path("logout/", logout_view, name="logout"),
     path('upload/', upload_image, name='upload_image'),
     path('images/', image_list, name='image_list'),
     path('image/<int:image_id>/', image_detail, name='image_detail'),
@@ -31,6 +46,8 @@ urlpatterns = [
         gallery,
         name="gallery",
     ),
+    path("api/token/", TokenObtainPairView.as_view(), name="token_obtain_pair"),
+    path("api/token/refresh/", TokenRefreshView.as_view(), name="token_refresh"),
 ]
 
 urlpatterns += router.urls

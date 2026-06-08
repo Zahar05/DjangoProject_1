@@ -7,9 +7,20 @@ from .forms import ImageForm
 from .models import Image
 
 from rest_framework.viewsets import ModelViewSet
-from .serializers import ImageSerializer
 
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
+
+from rest_framework import status
+from rest_framework.response import Response
+from rest_framework.views import APIView
+
+from .serializers import (
+    ImageSerializer,
+    UserRegistrationSerializer,
+)
+
+from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.models import User
 
 
 logger = logging.getLogger(__name__)
@@ -33,8 +44,41 @@ def download_image(request, image_id):
 
 
 def home(request):
-    logger.info("Home page opened")
-    return render(request, "imageservice/home.html")
+    message = ""
+
+    if request.method == "POST":
+        action = request.POST.get("action")
+
+        if action == "register":
+            username = request.POST.get("username")
+            password = request.POST.get("password")
+
+            if User.objects.filter(username=username).exists():
+                message = "User already exists"
+            else:
+                User.objects.create_user(username=username, password=password)
+                message = "User created successfully"
+
+        elif action == "login":
+            username = request.POST.get("username")
+            password = request.POST.get("password")
+
+            user = authenticate(request, username=username, password=password)
+
+            if user:
+                login(request, user)
+                message = "Logged in successfully"
+            else:
+                message = "Invalid credentials"
+
+        elif action == "logout":
+            logout(request)
+            message = "Logged out"
+
+    return render(request, "imageservice/home.html", {
+        "message": message,
+        "user": request.user
+    })
 
 
 def upload_image(request):
@@ -118,4 +162,46 @@ def gallery(request):
         "imageservice/gallery.html",
         {"images": images}
     )
+
+class RegisterView(APIView):
+    permission_classes = []
+
+    def post(self, request):
+        serializer = UserRegistrationSerializer(
+            data=request.data
+        )
+
+        if serializer.is_valid():
+            serializer.save()
+
+            return Response(
+                {"message": "User created successfully"},
+                status=status.HTTP_201_CREATED
+            )
+
+        return Response(
+            serializer.errors,
+            status=status.HTTP_400_BAD_REQUEST
+        )
 # Create your views here.
+
+def login_view(request):
+    if request.method == "POST":
+        username = request.POST.get("username")
+        password = request.POST.get("password")
+
+        user = authenticate(request, username=username, password=password)
+
+        if user is not None:
+            login(request, user)
+            return redirect("home")
+
+        return render(request, "imageservice/home.html", {
+            "error": "Invalid credentials"
+        })
+
+    return redirect("home")
+
+def logout_view(request):
+    logout(request)
+    return redirect("home")
