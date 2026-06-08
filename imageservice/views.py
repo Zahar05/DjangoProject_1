@@ -24,6 +24,14 @@ from django.contrib.auth.models import User
 from rest_framework_simplejwt.tokens import RefreshToken
 
 
+from .metrics import (
+    IMAGES_UPLOADED,
+    IMAGES_DOWNLOADED,
+    IMAGES_DELETED,
+    USERS_REGISTERED,
+)
+
+
 logger = logging.getLogger(__name__)
 
 
@@ -41,6 +49,8 @@ def download_image(request, image_id):
         f'attachment; filename="{image_obj.image.name.split("/")[-1]}"'
     )
 
+    IMAGES_DOWNLOADED.inc()
+
     return response
 
 
@@ -57,7 +67,12 @@ def home(request):
             if User.objects.filter(username=username).exists():
                 message = "User already exists"
             else:
-                User.objects.create_user(username=username, password=password)
+                User.objects.create_user(
+                    username=username,
+                    password=password
+                )
+
+                USERS_REGISTERED.inc()
                 message = "User created successfully"
 
         elif action == "login":
@@ -90,6 +105,8 @@ def upload_image(request):
 
         if form.is_valid():
             image = form.save()
+
+            IMAGES_UPLOADED.inc()
 
             logger.info(
                 "Image uploaded successfully id=%s filename=%s",
@@ -138,6 +155,9 @@ def delete_image(request, image_id):
         )
 
         image.image.delete()  # удалить файл с диска
+
+        IMAGES_DELETED.inc()
+
         image.delete()        # удалить запись из БД
 
         logger.info("Image deleted successfully id=%s", image_id)
@@ -172,6 +192,8 @@ class RegisterView(APIView):
 
         if serializer.is_valid():
             user = serializer.save()
+
+            USERS_REGISTERED.inc()
 
             # 🔥 создаём JWT сразу после регистрации
             refresh = RefreshToken.for_user(user)

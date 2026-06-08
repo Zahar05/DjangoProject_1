@@ -1,7 +1,8 @@
 import time
 import logging
 
-# logger = logging.getLogger(__name__)
+from .metrics import HTTP_REQUESTS_TOTAL
+
 logger = logging.getLogger("imageservice")
 
 
@@ -16,7 +17,24 @@ class RequestLoggingMiddleware:
 
         duration = time.time() - start_time
 
-        user = request.user if request.user.is_authenticated else "Anonymous"
+        endpoint = (
+            request.resolver_match.view_name
+            if request.resolver_match
+            else request.path
+        )
+
+        HTTP_REQUESTS_TOTAL.labels(
+            method=request.method,
+            endpoint=endpoint,
+            status=response.status_code,
+        ).inc()
+
+        user = (
+            request.user
+            if request.user.is_authenticated
+            else "Anonymous"
+        )
+
         ip = self.get_client_ip(request)
 
         logger.info(
@@ -29,8 +47,10 @@ class RequestLoggingMiddleware:
 
     def get_client_ip(self, request):
         x_forwarded_for = request.META.get("HTTP_X_FORWARDED_FOR")
+
         if x_forwarded_for:
             ip = x_forwarded_for.split(",")[0]
         else:
             ip = request.META.get("REMOTE_ADDR")
+
         return ip
