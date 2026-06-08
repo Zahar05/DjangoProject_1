@@ -4922,3 +4922,6 @@ INFO 2026-06-08 11:32:24,741 imageservice GET /metrics | user=Anonymous | ip=172
 INFO 2026-06-08 11:32:39,741 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
 INFO 2026-06-08 11:32:54,742 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
 INFO 2026-06-08 11:33:09,742 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-08 11:33:24,741 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
+INFO 2026-06-08 11:33:39,742 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.005s | status=200
+INFO 2026-06-08 11:33:54,741 imageservice GET /metrics | user=Anonymous | ip=172.18.0.2 | time=0.004s | status=200
