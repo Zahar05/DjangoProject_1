@@ -21,6 +21,7 @@ from .serializers import (
 
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
+from rest_framework_simplejwt.tokens import RefreshToken
 
 
 logger = logging.getLogger(__name__)
@@ -167,22 +168,21 @@ class RegisterView(APIView):
     permission_classes = []
 
     def post(self, request):
-        serializer = UserRegistrationSerializer(
-            data=request.data
-        )
+        serializer = UserRegistrationSerializer(data=request.data)
 
         if serializer.is_valid():
-            serializer.save()
+            user = serializer.save()
 
-            return Response(
-                {"message": "User created successfully"},
-                status=status.HTTP_201_CREATED
-            )
+            # 🔥 создаём JWT сразу после регистрации
+            refresh = RefreshToken.for_user(user)
 
-        return Response(
-            serializer.errors,
-            status=status.HTTP_400_BAD_REQUEST
-        )
+            return Response({
+                "message": "User created successfully",
+                "refresh": str(refresh),
+                "access": str(refresh.access_token),
+            }, status=status.HTTP_201_CREATED)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 # Create your views here.
 
 def login_view(request):

@@ -41,54 +41,162 @@
 </head>
 
 <body>
-    <h1>Image Service</h1>
+
+    <h1>Сервис Загрузки Изображений</h1>
 
     <ul>
-        <li><a href="{% url 'upload_image' %}">Загрузить изображение</a></li>
+        <li><a href="{% url 'upload_image' %}">Загрузка изображения</a></li>
         <li><a href="{% url 'image_list' %}">Список изображений</a></li>
         <li><a href="{% url 'gallery' %}">Галерея</a></li>
-        <li><a href="/admin/">Админка</a></li>
+        <li><a href="/admin/">Админ</a></li>
     </ul>
 
     <hr>
 
-    <!-- 🔥 сообщение -->
     <p style="color: white;">{{ message }}</p>
 
-    <!-- 🔐 AUTH BLOCK -->
-    {% if user.is_authenticated %}
+    <!-- 🔵 JWT AUTH BLOCK -->
+    <h2>Register (JWT)</h2>
 
-        <p style="color: white;">
-            👤 Logged in as {{ user.username }}
-        </p>
+    <form id="registerForm">
+        <input type="text" id="reg_username" placeholder="username">
+        <input type="password" id="reg_password" placeholder="password">
+        <button type="submit">Register</button>
+    </form>
 
-        <form method="post">
-            {% csrf_token %}
-            <input type="hidden" name="action" value="logout">
-            <button type="submit">Logout</button>
-        </form>
+    <h2>Login (JWT)</h2>
 
-    {% else %}
+    <form id="loginForm">
+        <input type="text" id="username" placeholder="username">
+        <input type="password" id="password" placeholder="password">
+        <button type="submit">Login</button>
+    </form>
 
-        <h2>Register</h2>
-        <form method="post">
-            {% csrf_token %}
-            <input type="hidden" name="action" value="register">
-            <input name="username" placeholder="username">
-            <input name="password" type="password" placeholder="password">
-            <button type="submit">Register</button>
-        </form>
+    <hr>
 
-        <h2>Login</h2>
-        <form method="post">
-            {% csrf_token %}
-            <input type="hidden" name="action" value="login">
-            <input name="username" placeholder="username">
-            <input name="password" type="password" placeholder="password">
-            <button type="submit">Login</button>
-        </form>
+<!--    <p style="color: white;">-->
+<!--        Open DevTools → Application → LocalStorage to see tokens-->
+<!--    </p>-->
 
-    {% endif %}
+    <script>
+        // 🔐 LOGIN (JWT)
+        document.getElementById("loginForm").addEventListener("submit", async function(e) {
+            e.preventDefault();
+
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+
+            const response = await fetch("/api/token/", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ username, password })
+            });
+
+            const data = await response.json();
+
+            console.log("LOGIN JWT:", data);
+
+            if (data.access) {
+                localStorage.setItem("access", data.access);
+                localStorage.setItem("refresh", data.refresh);
+                alert("Login successful (JWT)");
+            } else {
+                alert("Login failed");
+            }
+        });
+
+
+        // 🧾 REGISTER (API)
+        document.getElementById("registerForm").addEventListener("submit", async function(e) {
+            e.preventDefault();
+
+            const username = document.getElementById("reg_username").value;
+            const password = document.getElementById("reg_password").value;
+
+            const response = await fetch("/api/register/", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ username, password })
+            });
+
+            const data = await response.json();
+
+            console.log("REGISTER:", data);
+
+            if (response.ok) {
+                alert("User created successfully");
+            } else {
+                alert("Registration error");
+            }
+        });
+    </script>
 
 </body>
 </html>
+
+
+
+
+
+<!--{% load static %}-->
+
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Image Service</title>-->
+
+<!--    <style>-->
+<!--        body {-->
+<!--            background-image: url("{% static 'images/background.jpeg' %}");-->
+<!--            background-size: cover;-->
+<!--            background-position: center;-->
+<!--            background-repeat: no-repeat;-->
+<!--            min-height: 100vh;-->
+
+<!--            color: black;-->
+<!--            text-shadow: 1px 1px 3px black;-->
+<!--        }-->
+
+<!--        a {-->
+<!--            color: black;-->
+<!--            font-size: 20px;-->
+<!--        }-->
+<!--    </style>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h1>Image Service</h1>-->
+
+<!--    <ul>-->
+<!--        <li><a href="{% url 'upload_image' %}">Загрузить изображение</a></li>-->
+<!--        <li><a href="{% url 'image_list' %}">Список изображений</a></li>-->
+<!--        <li><a href="{% url 'gallery' %}">Галерея</a></li>-->
+<!--        <li><a href="/admin/">Админка</a></li>-->
+<!--    </ul>-->
+<!--</body>-->
+<!--</html>-->
+
+
+
+
+
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Image Service</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h1>Image Service</h1>-->
+
+<!--    <ul>-->
+<!--        <li><a href="{% url 'upload_image' %}">Загрузить изображение</a></li>-->
+<!--        <li><a href="{% url 'image_list' %}">Список изображений</a></li>-->
+<!--        <li><a href="/admin/">Админка</a></li>-->
+<!--    </ul>-->
+<!--</body>-->
+<!--</html>-->
