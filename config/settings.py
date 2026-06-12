@@ -142,6 +142,9 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
+# Указываем папку, куда Django соберет всю статику (включая админку)
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+
 STATICFILES_DIRS = [
     BASE_DIR / "static",
 ]

@@ -3,9 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <title>Удаление изображения</title>
+    <style>
+        body {
+            background-color: #121212;
+            min-height: 100vh;
+            color: #ffffff;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #ffffff;
+        }
+
+        p {
+            font-size: 16px;
+            color: #e0e0e0;
+            margin-bottom: 20px;
+        }
+
+        b {
+            color: #ff6b6b; /* Выделяем название удаляемого файла красным */
+        }
+
+        form {
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            cursor: pointer;
+            background-color: #ff6b6b; /* Красный цвет для кнопки удаления */
+            color: #ffffff;
+            border: none;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 16px;
+            transition: background-color 0.2s;
+        }
+
+        button:hover {
+            background-color: #e05252;
+        }
+
+        a {
+            display: block;
+            color: #61afef;
+            font-size: 16px;
+            text-decoration: none;
+            margin-top: 10px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
-    <h1>Удалить изображение</h1>
+    <h1>Удаление изображения</h1>
 
     <p>Вы уверены, что хотите удалить: <b>{{ image.title }}</b>?</p>
 

@@ -8,55 +8,92 @@
 
     <style>
         body {
-            background-image: url("{% static 'images/background.jpeg' %}");
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
+            /* Переключаем на темный фон */
+            background-color: #121212;
             min-height: 100vh;
+            color: #ffffff;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
 
-            color: black;
-            text-shadow: 1px 1px 3px black;
+        h1, h2 {
+            color: #ffffff;
         }
 
         a {
-            color: black;
+            color: #61afef;
             font-size: 20px;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
         }
 
         form {
-            margin: 10px 0;
+            margin: 20px 0;
+            background-color: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 300px;
+            border: 1px solid #333;
         }
 
         input {
             display: block;
-            margin: 5px 0;
-            padding: 5px;
+            margin: 10px 0;
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+            background-color: #2d2d2d;
+            border: 1px solid #444;
+            border-radius: 4px;
+            color: #ffffff;
+        }
+
+        input::placeholder {
+            color: #888;
         }
 
         button {
-            padding: 5px 10px;
+            padding: 8px 15px;
             cursor: pointer;
+            background-color: #61afef;
+            color: #121212;
+            border: none;
+            border-radius: 4px;
+            font-weight: bold;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #4b9cd3;
+        }
+
+        hr {
+            border-color: #333;
+            margin: 20px 0;
         }
     </style>
 </head>
 
 <body>
 
-    <h1>Сервис Загрузки Изображений</h1>
+    <h1>Сервис хранения изображений</h1>
 
     <ul>
-        <li><a href="{% url 'upload_image' %}">Загрузка изображения</a></li>
+        <li><a href="{% url 'upload_image' %}">Загрузить изображение</a></li>
         <li><a href="{% url 'image_list' %}">Список изображений</a></li>
-        <li><a href="{% url 'gallery' %}">Галерея</a></li>
-        <li><a href="/admin/">Админ</a></li>
+        <li><a href="/admin/">Админка</a></li>
     </ul>
 
     <hr>
 
-    <p style="color: white;">{{ message }}</p>
+    <p style="color: #4caf50;">{{ message }}</p>
 
-    <!-- 🔵 JWT AUTH BLOCK -->
-    <h2>Register (JWT)</h2>
+    <!-- JWT AUTH BLOCK -->
+    <h2>Регистрация (JWT)</h2>
 
     <form id="registerForm">
         <input type="text" id="reg_username" placeholder="username">
@@ -64,7 +101,7 @@
         <button type="submit">Register</button>
     </form>
 
-    <h2>Login (JWT)</h2>
+    <h2>Вход (JWT)</h2>
 
     <form id="loginForm">
         <input type="text" id="username" placeholder="username">
@@ -72,14 +109,8 @@
         <button type="submit">Login</button>
     </form>
 
-    <hr>
-
-<!--    <p style="color: white;">-->
-<!--        Open DevTools → Application → LocalStorage to see tokens-->
-<!--    </p>-->
-
     <script>
-        // 🔐 LOGIN (JWT)
+        // LOGIN (JWT)
         document.getElementById("loginForm").addEventListener("submit", async function(e) {
             e.preventDefault();
 
@@ -108,7 +139,7 @@
         });
 
 
-        // 🧾 REGISTER (API)
+        // REGISTER (API)
         document.getElementById("registerForm").addEventListener("submit", async function(e) {
             e.preventDefault();
 
@@ -137,66 +168,3 @@
 
 </body>
 </html>
-
-
-
-
-
-<!--{% load static %}-->
-
-<!--<!DOCTYPE html>-->
-<!--<html>-->
-<!--<head>-->
-<!--    <meta charset="UTF-8">-->
-<!--    <title>Image Service</title>-->
-
-<!--    <style>-->
-<!--        body {-->
-<!--            background-image: url("{% static 'images/background.jpeg' %}");-->
-<!--            background-size: cover;-->
-<!--            background-position: center;-->
-<!--            background-repeat: no-repeat;-->
-<!--            min-height: 100vh;-->
-
-<!--            color: black;-->
-<!--            text-shadow: 1px 1px 3px black;-->
-<!--        }-->
-
-<!--        a {-->
-<!--            color: black;-->
-<!--            font-size: 20px;-->
-<!--        }-->
-<!--    </style>-->
-<!--</head>-->
-<!--<body>-->
-<!--    <h1>Image Service</h1>-->
-
-<!--    <ul>-->
-<!--        <li><a href="{% url 'upload_image' %}">Загрузить изображение</a></li>-->
-<!--        <li><a href="{% url 'image_list' %}">Список изображений</a></li>-->
-<!--        <li><a href="{% url 'gallery' %}">Галерея</a></li>-->
-<!--        <li><a href="/admin/">Админка</a></li>-->
-<!--    </ul>-->
-<!--</body>-->
-<!--</html>-->
-
-
-
-
-
-<!--<!DOCTYPE html>-->
-<!--<html>-->
-<!--<head>-->
-<!--    <meta charset="UTF-8">-->
-<!--    <title>Image Service</title>-->
-<!--</head>-->
-<!--<body>-->
-<!--    <h1>Image Service</h1>-->
-
-<!--    <ul>-->
-<!--        <li><a href="{% url 'upload_image' %}">Загрузить изображение</a></li>-->
-<!--        <li><a href="{% url 'image_list' %}">Список изображений</a></li>-->
-<!--        <li><a href="/admin/">Админка</a></li>-->
-<!--    </ul>-->
-<!--</body>-->
-<!--</html>-->

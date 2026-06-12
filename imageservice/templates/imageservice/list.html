@@ -4,24 +4,68 @@
     <meta charset="UTF-8">
     <title>Список изображений</title>
 </head>
-<body>
-    <h1>Все изображения</h1>
+<body style="background-color: #121212; color: #ffffff; font-family: sans-serif; margin: 0; padding: 20px;">
 
-    <a href="{% url 'home' %}">Главная</a> |
-    <a href="{% url 'upload_image' %}">Загрузить</a>
+    <h1>Список изображений</h1>
 
-    <hr>
+    <a href="{% url 'home' %}" style="color: #61afef;">Главная</a> |
+    <a href="{% url 'upload_image' %}" style="color: #61afef;">Загрузить</a>
+    <hr style="border-color: #333;">
 
     {% for image in images %}
-        <div style="margin-bottom: 20px;">
-            <p><b>{{ image.title }}</b></p>
-
-            <a href="{% url 'image_detail' image.id %}">Открыть</a> |
-            <a href="{% url 'delete_image' image.id %}">Удалить</a>
-            <a href="{% url 'download_image' image.id %}">Скачать</a>
+    <div style="
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        margin-bottom: 20px;
+        padding: 15px;
+        background-color: #1e1e1e;
+        border: 1px solid #333;
+        border-radius: 10px;
+    ">
+        <img src="{{ image.image.url }}" alt="{{ image.title }}" width="250" style="border-radius: 8px;">
+        <div>
+            <h3 style="margin-top: 0; color: #ffffff;">{{ image.title }}</h3>
+            <a href="{% url 'image_detail' image.id %}" style="color: #61afef;">Смотреть</a> |
+            <a href="{% url 'delete_image' image.id %}" style="color: #ff6b6b;">Удалить</a> |
+            <a href="{% url 'download_image' image.id %}" style="color: #61afef;">Скачать</a>
         </div>
+    </div>
     {% empty %}
-        <p>Изображений нет</p>
+    <p>Изображений нет</p>
     {% endfor %}
+
 </body>
 </html>
+
+
+
+
+
+{#<!DOCTYPE html>#}
+{#<html>#}
+{#<head>#}
+{#    <meta charset="UTF-8">#}
+{#    <title>Список изображений</title>#}
+{#</head>#}
+{#<body>#}
+{#    <h1>Все изображения</h1>#}
+{##}
+{#    <a href="{% url 'home' %}">Главная</a> |#}
+{#    <a href="{% url 'upload_image' %}">Загрузить</a>#}
+{##}
+{#    <hr>#}
+{##}
+{#    {% for image in images %}#}
+{#        <div style="margin-bottom: 20px;">#}
+{#            <p><b>{{ image.title }}</b></p>#}
+{##}
+{#            <a href="{% url 'image_detail' image.id %}">Открыть</a> |#}
+{#            <a href="{% url 'delete_image' image.id %}">Удалить</a>#}
+{#            <a href="{% url 'download_image' image.id %}">Скачать</a>#}
+{#        </div>#}
+{#    {% empty %}#}
+{#        <p>Изображений нет</p>#}
+{#    {% endfor %}#}
+{#</body>#}
+{#</html>#}
