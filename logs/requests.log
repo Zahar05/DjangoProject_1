@@ -165,3 +165,4 @@ INFO 2026-06-13 21:45:00,551 imageservice GET /media/images/I._V._Stalin.jpg | u
 INFO 2026-06-13 21:45:00,581 imageservice GET /media/images/Mountains_iDbsguX.jpeg | user=admin1 | ip=172.18.0.1 | time=0.002s | status=304
 INFO 2026-06-13 21:45:00,582 imageservice GET /media/images/selective-focus-shot-beautiful-tree-blooming-clear-sky_181624-9325_1s0Ww1t.avif | user=admin1 | ip=172.18.0.1 | time=0.000s | status=304
 INFO 2026-06-13 21:45:15,020 imageservice GET /metrics | user=Anonymous | ip=172.18.0.3 | time=0.005s | status=200
+INFO 2026-06-13 21:45:30,020 imageservice GET /metrics | user=Anonymous | ip=172.18.0.3 | time=0.005s | status=200
