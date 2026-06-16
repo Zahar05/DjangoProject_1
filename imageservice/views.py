@@ -232,7 +232,7 @@ def logout_view(request):
 def recognize_image(request, image_id):
 
     response = requests.post(
-        "http://127.0.0.1:8001/analyze_doc",
+        "http://ocr:8001/analyze_doc",
         json={
             "image_id": image_id,
             "email": "zaipulla1989@gmail.com",

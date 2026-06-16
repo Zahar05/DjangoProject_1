@@ -8,6 +8,8 @@ services:
       - "8000:8000"
     depends_on:
       - db
+    networks:
+      - backend-network
     env_file:
       - .env
     volumes:
@@ -24,6 +26,8 @@ services:
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
       - "5432:5432"
+    networks:
+      - backend-network
     volumes:
       - pgdata:/var/lib/postgresql/data
   prometheus:
@@ -31,6 +35,8 @@ services:
     container_name: prometheus
     ports:
       - "9090:9090"
+    networks:
+      - backend-network
     volumes:
       - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
     command:
@@ -45,8 +51,14 @@ services:
     environment:
       - GF_SECURITY_ADMIN_USER=admin
       - GF_SECURITY_ADMIN_PASSWORD=admin
+    networks:
+      - backend-network
     volumes:
       - grafana_data:/var/lib/grafana
+
+networks:
+  backend-network:
+    external: true
 
 volumes:
   pgdata:
