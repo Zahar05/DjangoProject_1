@@ -1,4 +1,5 @@
 import logging
+import requests
 
 from django.http import FileResponse
 from django.shortcuts import render, redirect, get_object_or_404
@@ -227,3 +228,22 @@ def login_view(request):
 def logout_view(request):
     logout(request)
     return redirect("home")
+
+def recognize_image(request, image_id):
+
+    response = requests.post(
+        "http://127.0.0.1:8001/analyze_doc",
+        json={
+            "image_id": image_id,
+            "email": "zaipulla1989@gmail.com",
+        },
+        timeout=10,
+    )
+
+    logger.info(
+        "Recognition started for image_id=%s. Response=%s",
+        image_id,
+        response.text,
+    )
+
+    return redirect("image_list")

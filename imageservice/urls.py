@@ -10,6 +10,7 @@ from imageservice.views import (
     delete_image,
     ImageViewSet,
     gallery,
+    recognize_image,
     RegisterView,
     login_view,
     logout_view,
@@ -35,17 +36,10 @@ urlpatterns = [
     path('upload/', upload_image, name='upload_image'),
     path('images/', image_list, name='image_list'),
     path('image/<int:image_id>/', image_detail, name='image_detail'),
+    path("image/<int:image_id>/recognize/", recognize_image, name="recognize_image"),
     path('image/<int:image_id>/delete/', delete_image, name='delete_image'),
-    path(
-        'image/<int:image_id>/download/',
-        download_image,
-        name='download_image'
-    ),
-    path(
-        "gallery/",
-        gallery,
-        name="gallery",
-    ),
+    path('image/<int:image_id>/download/', download_image, name='download_image'),
+    path("gallery/", gallery, name="gallery"),
     path("api/token/", TokenObtainPairView.as_view(), name="token_obtain_pair"),
     path("api/token/refresh/", TokenRefreshView.as_view(), name="token_refresh"),
 ]

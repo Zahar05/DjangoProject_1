@@ -28,7 +28,8 @@
             <h3 style="margin-top: 0; color: #ffffff;">{{ image.title }}</h3>
             <a href="{% url 'image_detail' image.id %}" style="color: #61afef;">Смотреть</a> |
             <a href="{% url 'delete_image' image.id %}" style="color: #ff6b6b;">Удалить</a> |
-            <a href="{% url 'download_image' image.id %}" style="color: #61afef;">Скачать</a>
+            <a href="{% url 'download_image' image.id %}" style="color: #61afef;">Скачать</a> |
+            <a href="{% url 'recognize_image' image.id %}" style="color: #4caf50;">Распознать</a> |
         </div>
     </div>
     {% empty %}
