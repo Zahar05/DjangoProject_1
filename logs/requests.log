@@ -3517,3 +3517,7 @@ INFO 2026-06-22 21:11:26,494 imageservice GET /api/images/70/ | user=Anonymous |
 INFO 2026-06-22 21:11:26,497 imageservice GET /media/images/I_lAgChcH._V._Stalin.jpg | user=Anonymous | ip=172.19.0.8 | time=0.001s | status=200
 INFO 2026-06-22 21:11:32,054 imageservice GET /metrics | user=Anonymous | ip=172.19.0.3 | time=0.009s | status=200
 INFO 2026-06-22 21:11:47,051 imageservice GET /metrics | user=Anonymous | ip=172.19.0.3 | time=0.006s | status=200
+INFO 2026-06-22 21:12:02,050 imageservice GET /metrics | user=Anonymous | ip=172.19.0.3 | time=0.006s | status=200
+INFO 2026-06-22 21:12:17,053 imageservice GET /metrics | user=Anonymous | ip=172.19.0.3 | time=0.009s | status=200
+INFO 2026-06-22 21:12:32,055 imageservice GET /metrics | user=Anonymous | ip=172.19.0.3 | time=0.010s | status=200
+INFO 2026-06-22 21:12:47,049 imageservice GET /metrics | user=Anonymous | ip=172.19.0.3 | time=0.006s | status=200
