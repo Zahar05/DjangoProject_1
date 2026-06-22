@@ -2558,3 +2558,4 @@ INFO 2026-06-22 15:27:27,648 imageservice GET /metrics | user=Anonymous | ip=172
 INFO 2026-06-22 15:27:42,647 imageservice GET /metrics | user=Anonymous | ip=172.19.0.2 | time=0.005s | status=200
 INFO 2026-06-22 15:27:57,645 imageservice GET /metrics | user=Anonymous | ip=172.19.0.2 | time=0.004s | status=200
 INFO 2026-06-22 15:28:12,649 imageservice GET /metrics | user=Anonymous | ip=172.19.0.2 | time=0.006s | status=200
+INFO 2026-06-22 15:28:27,647 imageservice GET /metrics | user=Anonymous | ip=172.19.0.2 | time=0.005s | status=200
