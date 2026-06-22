@@ -50,7 +50,7 @@ SECRET_KEY = 'django-insecure-rydnv!=$51y17$473j^2-so9ad%fn#h8=acwem-=8zil@rbr20
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "0.0.0.0", "web", "django_app"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "0.0.0.0", "web", "django-app"]
 
 
 # Application definition
@@ -205,3 +205,10 @@ if TESTING:
     LOGGING["loggers"]["imageservice"]["handlers"] = [
         "console"
     ]
+
+# Настройки для интеграции с API Gateway шлюзом
+CSRF_TRUSTED_ORIGINS = [
+    "http://localhost:8080",
+    "http://127.0.0.1:8080",
+    "http://0.0.0.0:8080",
+]
